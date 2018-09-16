@@ -10,3 +10,6 @@ def test_fizzBuzz():
 
 def test_fizzbuzzReturns1With1PassedIn():
     checkfizzBuzz(1, "1")
+
+def test_fizzbuzzReturns2With2PassedIn():
+    checkfizzBuzz(2, "2")
