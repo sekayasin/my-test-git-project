@@ -4,8 +4,8 @@ python:
 install:
   - pip install -r requirements.txt
 script:
-  - py.test tests/fizzbuzztest.py
-  - coverage report -m tests/fizzbuzztest.py
+  - py.test --cov-config .coveragerc --cov=app tests/
+  - coverage report 
 after_success:
   - coveralls
   - pytest
