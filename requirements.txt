@@ -19,7 +19,7 @@ pylint==2.1.1
 pytest==3.8.0
 six==1.11.0
 typed-ast==1.1.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wrapt==1.10.11
 astroid==2.0.4
 atomicwrites==1.2.1
@@ -43,7 +43,7 @@ pylint==2.1.1
 pytest==3.8.0
 six==1.11.0
 typed-ast==1.1.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wrapt==1.10.11
 astroid==2.0.4
 atomicwrites==1.2.1
@@ -68,7 +68,7 @@ pytest==3.8.0
 pytest-cov==2.6.0
 six==1.11.0
 typed-ast==1.1.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wrapt==1.10.11
 astroid==2.0.4
 atomicwrites==1.2.1
@@ -99,5 +99,5 @@ requests==2.19.1
 six==1.11.0
 typed-ast==1.1.0
 urllib3==1.23
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wrapt==1.10.11
